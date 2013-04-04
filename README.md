@@ -1,1 +1,1 @@
-exercisees from https://developers.google.com/edu/c++/
+exercises from https://developers.google.com/edu/c++/
